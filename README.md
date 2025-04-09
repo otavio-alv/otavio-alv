@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estudando Estrutura de Dados e Algoritmos Avançados e Segurança em Redes, e mais!<br>🎯 Objetivos: Aprofundar mais ainda na área da computação e certificação em Segurança da Informação</p>
+<p align="left">📚 Atualmente estudando Estrutura de Dados e Algoritmos Avançados e Segurança em Redes, e mais!<br>🎯 Objetivos: Aprofundar mais ainda na área da computação e certificação em Segurança da Informação</p>
 
 ###
 
