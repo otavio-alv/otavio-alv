@@ -8,27 +8,40 @@
 
 ### Sobre Mim
 
-Graduando em **Ciência da Computação** pela **Universidade Federal de Ouro Preto (UFOP)**. Meu foco atual está na intersecção entre segurança, descentralização e Blockchain.
+Graduando em **Ciência da Computação** pela **Universidade Federal de Ouro Preto (UFOP)** e inspirado construir soluções inovadoras e seguras. 
 
-
-### Áreas de Interesse & Estudos Atuais
-
-* **Cybersecurity & Web3:** Focado especialmente em aplicações de Blockchain, Smart Contracts e **Interoperabilidade entre Blockchains** (Cosmos, Polkadot, ICP).
-* **Sistemas Distribuídos:** Experiência acadêmica e prática com **Apache Cassandra**, orquestração de containers (**Docker Swarm/Kubernetes**) e deploy em nuvem (**AWS/GCP**).
+Atualmente, sou membro ativo do **KryptoLab**, um laboratório de pesquisa especializado em Cybersecurity e Web3, onde desenvolvo Provas de Conceito (PoCs) e tecnologias aplicadas à blockchain. Meu foco é resolver problemas complexos na intersecção entre segurança da informação, sistemas distribuídos e governança de dados.
 
 ---
 
-### Ferramentas
+### Projetos em Destaque
+
+*  **[gFHIR-HA](https://github.com/otavio-alv/gFHIR-HA):** Uma arquitetura híbrida para consentimento digital verificável em sistemas de saúde. O projeto une o padrão FHIR com Identidade Descentralizada (DID/VC), infraestrutura de chaves públicas (ICP-Brasil) e um ledger imutável, garantindo rastreabilidade e total conformidade com a LGPD.
+*  **[Greenpy](https://github.com/otavio-alv/greenpy):** Plataforma gamificada desenvolvida para incentivar a gestão sustentável de resíduos. O sistema conecta cidadãos, coletores e produtores por meio de um programa de fidelidade.
+
+---
+
+### Tecnologias e Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | C++, Java, Python, Solidity (Learning) |
-| **Infra & Cloud** | AWS, Google Cloud, Docker, Kubernetes |
-| **Database** | SQL, Apache Cassandra (NoSQL) |
-| **OS & Tools** | Arch Linux, Git |
-
+| **Linguagens** | C++, Python, Go, Dart |
+| **Infra, Cloud & OS** | Linux (Arch), Docker, Google Cloud Platform (GCP) |
+| **Frameworks & BaaS** | Flutter, Firebase |
+| **Web3 & Dados** | SSI/DID/VC, Smart Contracts/Chaincode, Hyperledger Fabric |
+| **Ferramentas** | Git, GitHub |
 
 ---
+
+### Como me encontrar 📫
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/otavio-alves-gomes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<br>
 
 <div align="center">
   <i>"Stay hungry, stay foolish."</i>
