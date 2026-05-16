@@ -1,48 +1,61 @@
-# Olá, eu sou o Otávio! 👋
+# Hi, I'm Otávio Alves Gomes 👋
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Web3_&_Security-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/University-UFOP-b30000?style=for-the-badge&logo=academy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Security_&_Distributed_Systems-blueviolet?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-UFOP-b30000?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Linux-1793d1?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
-### Sobre Mim
+### About Me
 
-Graduando em **Ciência da Computação** pela **Universidade Federal de Ouro Preto (UFOP)** e inspirado construir soluções inovadoras e seguras. 
+Computer Science student at **Federal University of Ouro Preto (UFOP)** focused on **Software Engineering, Security, and Distributed Systems**.
 
-Atualmente, sou membro ativo do **KryptoLab**, um laboratório de pesquisa especializado em Cybersecurity e Web3, onde desenvolvo Provas de Conceito (PoCs) e tecnologias aplicadas à blockchain. Meu foco é resolver problemas complexos na intersecção entre segurança da informação, sistemas distribuídos e governança de dados.
+Currently, I am involved in applied research and Proofs of Concept in **Cybersecurity, Digital Identity, and Web3**, building solutions that explore privacy, trust, interoperability, and secure system design.
+
+My main interests include:
+- Secure software engineering
+- Applied cryptography and digital identity
+- Blockchain and distributed architectures
+- Privacy, governance, and trustworthy systems
 
 ---
 
-### Projetos em Destaque
+### Featured Projects
 
-*  **[gFHIR-HA](https://github.com/otavio-alv/gFHIR-HA):** Uma arquitetura híbrida para consentimento digital verificável em sistemas de saúde. O projeto une o padrão FHIR com Identidade Descentralizada (DID/VC), infraestrutura de chaves públicas (ICP-Brasil) e um ledger imutável, garantindo rastreabilidade e total conformidade com a LGPD.
-*  **[Greenpy](https://github.com/otavio-alv/greenpy):** Plataforma gamificada desenvolvida para incentivar a gestão sustentável de resíduos. O sistema conecta cidadãos, coletores e produtores por meio de um programa de fidelidade.
+* **[gFHIR-HA](https://github.com/otavio-alv/gFHIR-HA)**  
+  Hybrid architecture for **verifiable digital consent in healthcare systems**, combining **FHIR**, **DID/VC**, **ICP-Brasil PKI**, and an immutable ledger to improve traceability, integrity, and compliance with **LGPD** requirements.
+
+* **[BraZKIL](https://github.com/otavio-alv/BraZKIL)**  
+  Project focused on applying advanced cryptographic and identity-related concepts in the Brazilian context, with emphasis on **privacy-preserving systems**, trust, and secure digital interactions.
+
+* **[Greenpy](https://github.com/otavio-alv/greenpy)**  
+  Gamified platform designed to encourage sustainable waste management by connecting citizens, collectors, and producers through incentive and loyalty mechanisms.
 
 ---
 
-### Tecnologias e Ferramentas
+### Skills
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | C++, Python, Go, Dart |
-| **Infra, Cloud & OS** | Linux (Arch), Docker, Google Cloud Platform (GCP) |
-| **Frameworks & BaaS** | Flutter, Firebase |
-| **Web3 & Dados** | SSI/DID/VC, Smart Contracts/Chaincode, Hyperledger Fabric |
-| **Ferramentas** | Git, GitHub |
+| **Languages** | Python, Go, C++ |
+| **Security & Identity** | SSI, DID, Verifiable Credentials, PKI, ICP-Brasil |
+| **Distributed Systems & Web3** | Hyperledger Fabric, Chaincode, Smart Contracts |
+| **Tools & Platforms** | Linux, Docker, Git, GCP |
 
 ---
 
-### Como me encontrar 📫
+### Current Focus
+
+- Building projects related to **security**, **digital identity**, and **distributed systems**
+- Exploring practical applications of **cryptography** and **blockchain**
+- Expanding experience in **secure software design** and research-driven development
+
+---
+
+### Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/otavio-alves-gomes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <i>"Stay hungry, stay foolish."</i>
-</div>
