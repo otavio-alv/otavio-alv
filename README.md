@@ -1,4 +1,4 @@
-# Hi, I'm Otávio Alves Gomes 👋
+# Hi, I'm Otávio 🌐
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Security_&_Distributed_Systems-blueviolet?style=for-the-badge&logo=shield&logoColor=white" />
