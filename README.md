@@ -1,58 +1,58 @@
-# Hi, I'm Otávio 🌐
+# Olá, eu sou Otávio 🌐
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Security_&_Distributed_Systems-blueviolet?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/University-UFOP-b30000?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Environment-Linux-1793d1?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Seguranca_%26_Sistemas_Distribuidos-blueviolet?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Universidade-UFOP-b30000?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ambiente-Linux-1793d1?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
-### About Me
+### Sobre Mim
 
-Computer Science student at **Federal University of Ouro Preto (UFOP)** focused on **Software Engineering, Security, and Distributed Systems**.
+Estudante de Ciência da Computação na **Universidade Federal de Ouro Preto (UFOP)**, com foco em **Engenharia de Software, Segurança e Sistemas Distribuídos**.
 
-Currently, I am involved in applied research and Proofs of Concept in **Cybersecurity, Digital Identity, and Web3**, building solutions that explore privacy, trust, interoperability, and secure system design.
+Atualmente, atuo em pesquisa aplicada e no desenvolvimento de Provas de Conceito (**PoCs**) em **Cibersegurança, Identidade Digital e Web3**, construindo soluções que exploram privacidade, confiança, interoperabilidade e projeto seguro de sistemas.
 
-My main interests include:
-- Secure software engineering
-- Applied cryptography and digital identity
-- Blockchain and distributed architectures
-- Privacy, governance, and trustworthy systems
+Meus principais interesses incluem:
+- Engenharia de software segura
+- Criptografia aplicada e identidade digital
+- Blockchain e arquiteturas distribuídas
+- Privacidade, governança e sistemas confiáveis
 
 ---
 
-### Featured Projects
+### Projetos em Destaque
 
 * **[gFHIR-HA](https://github.com/otavio-alv/gFHIR-HA)**  
-  Hybrid architecture for **verifiable digital consent in healthcare systems**, combining **FHIR**, **DID/VC**, **ICP-Brasil PKI**, and an immutable ledger to improve traceability, integrity, and compliance with **LGPD** requirements.
+  Arquitetura híbrida para **consentimento digital verificável em sistemas de saúde**, combinando **FHIR**, **DID/VC**, **ICP-Brasil PKI** e um ledger imutável para melhorar rastreabilidade, integridade e conformidade com os requisitos da **LGPD**.
 
 * **[BraZKIL](https://github.com/otavio-alv/BraZKIL)**  
-  Project focused on applying advanced cryptographic and identity-related concepts in the Brazilian context, with emphasis on **privacy-preserving systems**, trust, and secure digital interactions.
+  Projeto voltado à aplicação de conceitos avançados de criptografia e identidade no contexto brasileiro, com ênfase em **sistemas que preservam a privacidade**, confiança e interações digitais seguras.
 
 * **[Greenpy](https://github.com/otavio-alv/greenpy)**  
-  Gamified platform designed to encourage sustainable waste management by connecting citizens, collectors, and producers through incentive and loyalty mechanisms.
+  Plataforma gamificada criada para incentivar a gestão sustentável de resíduos, conectando cidadãos, coletores e produtores por meio de mecanismos de incentivo e fidelização.
 
 ---
 
-### Skills
+### Habilidades
 
-| Category | Technologies |
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **Languages** | Python, Go, C++ |
-| **Security & Identity** | SSI, DID, Verifiable Credentials, PKI, ICP-Brasil |
-| **Distributed Systems & Web3** | Hyperledger Fabric, Chaincode, Smart Contracts |
-| **Tools & Platforms** | Linux, Docker, Git, GCP |
+| **Linguagens** | Python, Go, C++ |
+| **Segurança e Identidade** | SSI, DID, Verifiable Credentials, PKI, ICP-Brasil |
+| **Sistemas Distribuídos e Web3** | Hyperledger Fabric, Chaincode, Smart Contracts |
+| **Ferramentas e Plataformas** | Linux, Docker, Git, GCP |
 
 ---
 
-### Current Focus
+### Foco Atual
 
-- Building projects related to **security**, **digital identity**, and **distributed systems**
-- Exploring practical applications of **cryptography** and **blockchain**
-- Expanding experience in **secure software design** and research-driven development
+- Desenvolvendo projetos relacionados a **segurança**, **identidade digital** e **sistemas distribuídos**
+- Explorando aplicações práticas de **criptografia** e **blockchain**
+- Expandindo minha experiência em **projeto seguro de software** e desenvolvimento orientado à pesquisa
 
 ---
 
-### Contact
+### Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/otavio-alves-gomes/" target="_blank">
