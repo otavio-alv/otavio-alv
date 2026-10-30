@@ -1,6 +1,6 @@
 # Otávio Alves Gomes
 
-Graduando em Ciência da Computação na UFOP, focado em **segurança, identidade digital e sistemas distribuídos**. Pesquiso e construo soluções com **DIDs, Verifiable Credentials, SSI e blockchain**, com atenção especial ao contexto brasileiro (LGPD, ICP-Brasil, ECA Digital). Atualmente em iniciação científica sobre identidade descentralizada e verificação de credenciais.
+Graduando em Ciência da Computação na Universidade Federal de Ouro Preto (UFOP), focado em **segurança, identidade digital e sistemas distribuídos**. Pesquiso e construo soluções com **DIDs, Verifiable Credentials, SSI e blockchain**, com atenção especial ao contexto brasileiro (LGPD, ICP-Brasil, ECA Digital). Atualmente em iniciação científica sobre identidade descentralizada e verificação de credenciais.
 
 <pre>
 +-------------------------------------------------------------------------------------+
