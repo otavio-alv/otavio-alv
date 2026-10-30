@@ -25,17 +25,17 @@ Graduando em Ciência da Computação na Universidade Federal de Ouro Preto (UFO
 
 ### * [BraZKIL](https://github.com/otavio-alv/BraZKIL) - Artigo publicado no SBSeg 2026
 
-Framework híbrido de verificação de maioridade em conformidade com o ECA Digital. Valida a identidade uma única vez em base governamental e emite credenciais verificáveis que comprovam apenas a maioridade, sem expor nenhum outro dado pessoal. **Stack:** DIDs, SD-JWT VCs, FastAPI, SQLAlchemy, walt.id, OID4VC.
+Framework híbrido de verificação de maioridade em conformidade com o ECA Digital. Valida a identidade uma única vez em base governamental e emite credenciais verificáveis que comprovam apenas a maioridade, sem expor nenhum outro dado pessoal. **Stack:** _DIDs, SD-JWT VCs, FastAPI, SQLAlchemy, walt.id, OID4VC._
 
 
 ### [gFHIR-HA](https://github.com/otavio-alv/gFHIR-HA) - Artigo publicado no SBCAS 2026
 
-Prova de conceito de governança verificável de consentimento em saúde. Estende a auditoria do FHIR à blockchain, registrando apenas hashes e metadados, e usa um middleware que concede acesso a prontuários conforme identidade, autorização e consentimento do paciente.  **Stack:** Hyperledger Fabric, HAPI FHIR, DIDs, SD-JWT VCs
+Prova de conceito de governança verificável de consentimento em saúde. Estende a auditoria do FHIR à blockchain, registrando apenas hashes e metadados, e usa um middleware que concede acesso a prontuários conforme identidade, autorização e consentimento do paciente.  **Stack:** _Hyperledger Fabric, HAPI FHIR, DIDs, SD-JWT VCs_
 
 ### [greenpy](https://github.com/otavio-alv/greenpy)
 
-Plataforma gamificada de gestão sustentável de resíduos, conectando cidadãos, coletores e produtores. Usuários acumulam pontos ao reciclar e os convertem em benefícios, enquanto coletores validam descartes e monitoram contêineres. **Stack:** Flutter, Firebase
+Plataforma gamificada de gestão sustentável de resíduos, conectando cidadãos, coletores e produtores. Usuários acumulam pontos ao reciclar e os convertem em benefícios, enquanto coletores validam descartes e monitoram contêineres. **Stack:** _Flutter, Firebase_
 
 ### [my_dotfiles](https://github.com/otavio-alv/my_dotfiles)
 
-Configs de rice próprio para Sway, Waybar, Rofi, Kitty e systemd, com tema gerado dinamicamente via pywal.
+Configs de rice próprio para _Sway, Waybar, Rofi, Kitty e systemd_, com tema gerado dinamicamente via _pywal_.
