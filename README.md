@@ -1,61 +1,41 @@
-# Olá, eu sou Otávio 🌐
+# Otávio Alves Gomes
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Foco-Seguranca_%26_Sistemas_Distribuidos-blueviolet?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Universidade-UFOP-b30000?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ambiente-Linux-1793d1?style=for-the-badge&logo=linux&logoColor=white" />
-</div>
+Graduando em Ciência da Computação na UFOP, focado em **segurança, identidade digital e sistemas distribuídos**. Pesquiso e construo soluções com **DIDs, Verifiable Credentials, SSI e blockchain**, com atenção especial ao contexto brasileiro (LGPD, ICP-Brasil, ECA Digital). Atualmente em iniciação científica sobre identidade descentralizada e verificação de credenciais.
 
-### Sobre Mim
+<pre>
++-------------------------------------------------------------------------------------+
+| VERIFIABLE CREDENTIAL                                         did:github:otavio-alv |
++-------------------------------------------------------------------------------------+
+|                                                                                     |
+|      .----.           nome:              Otávio Alves Gomes                         |
+|     /  __  \          instituição:       UFOP                                       |
+|    |  |  |  |         curso:             Ciência da Computação                      |
+|    |  |  |  |         foco:              Segurança, Criptografia, ML, Id. Digital   |
+|  .-'--'--'--'-.       linguagens:        Python, Go, C++                            |
+|  |     ()     |       idiomas:           Português, Inglês                          |
+|  |     ||     |       ferramentas:       Linux, Docker, Git, GCP                    |
+|  '------------'       ambiente:          Arch Linux                                 |
+|                                                                                     |
++-------------------------------------------------------------------------------------+
+| <a href="https://github.com/otavio-alv">github.com/otavio-alv</a>                            <a href="https://www.linkedin.com/in/otavio-alves-gomes/">linkedin.com/in/otavio-alves-gomes</a> |
++-------------------------------------------------------------------------------------+
+</pre>
 
-Estudante de Ciência da Computação na **Universidade Federal de Ouro Preto (UFOP)**, com foco em **Engenharia de Software, Segurança e Sistemas Distribuídos**.
+## Projetos
 
-Atualmente, atuo em pesquisa aplicada e no desenvolvimento de Provas de Conceito (**PoCs**) em **Cibersegurança, Identidade Digital e Web3**, construindo soluções que exploram privacidade, confiança, interoperabilidade e projeto seguro de sistemas.
+### * [BraZKIL](https://github.com/otavio-alv/BraZKIL) - Artigo publicado no SBSeg 2026
 
-Meus principais interesses incluem:
-- Engenharia de software segura
-- Criptografia aplicada e identidade digital
-- Blockchain e arquiteturas distribuídas
-- Privacidade, governança e sistemas confiáveis
+Framework híbrido de verificação de maioridade em conformidade com o ECA Digital. Valida a identidade uma única vez em base governamental e emite credenciais verificáveis que comprovam apenas a maioridade, sem expor nenhum outro dado pessoal. **Stack:** DIDs, SD-JWT VCs, FastAPI, SQLAlchemy, walt.id, OID4VC.
 
----
 
-### Projetos em Destaque
+### [gFHIR-HA](https://github.com/otavio-alv/gFHIR-HA) - Artigo publicado no SBCAS 2026
 
-* **[gFHIR-HA](https://github.com/otavio-alv/gFHIR-HA)**  
-  Arquitetura híbrida para **consentimento digital verificável em sistemas de saúde**, combinando **FHIR**, **DID/VC**, **ICP-Brasil PKI** e um ledger imutável para melhorar rastreabilidade, integridade e conformidade com os requisitos da **LGPD**.
+Prova de conceito de governança verificável de consentimento em saúde. Estende a auditoria do FHIR à blockchain, registrando apenas hashes e metadados, e usa um middleware que concede acesso a prontuários conforme identidade, autorização e consentimento do paciente.  **Stack:** Hyperledger Fabric, HAPI FHIR, DIDs, SD-JWT VCs
 
-* **[BraZKIL](https://github.com/otavio-alv/BraZKIL)**  
-  Projeto voltado à aplicação de conceitos avançados de criptografia e identidade no contexto brasileiro, com ênfase em **sistemas que preservam a privacidade**, confiança e interações digitais seguras.
+### [greenpy](https://github.com/otavio-alv/greenpy)
 
-* **[Greenpy](https://github.com/otavio-alv/greenpy)**  
-  Plataforma gamificada criada para incentivar a gestão sustentável de resíduos, conectando cidadãos, coletores e produtores por meio de mecanismos de incentivo e fidelização.
+Plataforma gamificada de gestão sustentável de resíduos, conectando cidadãos, coletores e produtores. Usuários acumulam pontos ao reciclar e os convertem em benefícios, enquanto coletores validam descartes e monitoram contêineres. **Stack:** Flutter, Firebase
 
----
+### [my_dotfiles](https://github.com/otavio-alv/my_dotfiles)
 
-### Habilidades
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Python, Go, C++ |
-| **Segurança e Identidade** | SSI, DID, Verifiable Credentials, PKI, ICP-Brasil |
-| **Sistemas Distribuídos e Web3** | Hyperledger Fabric, Chaincode, Smart Contracts |
-| **Ferramentas e Plataformas** | Linux, Docker, Git, GCP |
-
----
-
-### Foco Atual
-
-- Desenvolvendo projetos relacionados a **segurança**, **identidade digital** e **sistemas distribuídos**
-- Explorando aplicações práticas de **criptografia** e **blockchain**
-- Expandindo minha experiência em **projeto seguro de software** e desenvolvimento orientado à pesquisa
-
----
-
-### Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/otavio-alves-gomes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+Configs de rice próprio para Sway, Waybar, Rofi, Kitty e systemd, com tema gerado dinamicamente via pywal.
